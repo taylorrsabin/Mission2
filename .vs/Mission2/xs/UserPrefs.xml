@@ -1,6 +1,8 @@
-﻿<Properties StartupConfiguration="{F0476740-FC7E-4D5E-A327-19248CC9B5FA}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F0476740-FC7E-4D5E-A327-19248CC9B5FA}|Default">
   <MonoDevelop.Ide.ItemProperties.Mission2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Mission2/Program.cs">
     <Files>
       <File FileName="Mission2/Program.cs" Line="9" Column="36" />
@@ -15,9 +17,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

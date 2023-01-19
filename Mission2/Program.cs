@@ -43,6 +43,8 @@ namespace Mission2
             }
 
             Console.WriteLine("\n\nThanks for using the dice throwing simulator\n\nGoodbye, Human!");
+
+            //Ayyyyyy
         }
     }
 }
